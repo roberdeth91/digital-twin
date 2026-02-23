@@ -1,0 +1,21 @@
+{
+    "full_name": "roberto amavizcca",
+    "name": "roberdeth",
+    "current_role": "MLOps",
+    "location": "in your heart",
+    "email": "roberto.amavizca@example.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "AI automatizations",
+      "DevOps engineering",
+      "mechanical design"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "mechatronic engineer ",
+        "institution": "ITSON",
+        "year": "2014"
+      }
+    ]
+  }
